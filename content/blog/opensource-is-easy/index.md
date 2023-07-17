@@ -84,7 +84,7 @@ forward ways.
 	- Did you know you can actually search issues on all public repos on GitHub ?, well we use that to find issue in projects that we can help with !!
 	- Head over to [Issues](https://github.com/issue), and look at the search bar, it will say something like `is:open is:issue author:p0lygun archived:false `
 	- We can use GitHub advance search parameters to search for issues.
-	- Use Keywords like `langauge:`, `lable:`
+	- Use Keywords like `language:`, `lable:`
 		- Some of the ones I use are
 			- `is:open is:issue archived:false language:python label:"help wanted"` (Gets all issues in repo that use python and has label help wanted)
 			- another good one is `is:open is:issue archived:false language:python label:"good first issue" `
