@@ -21,10 +21,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "neuron_activation.jpg" # image path/url
+    image: "neuron_activation.png" # image path/url
     alt: "How happy i am when merge conflicts are resolved" # alt text
     caption: "How happy i am when merge conflicts are resolved" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/p0lygun/p0lygun.github.io/tree/main/content/blog"
