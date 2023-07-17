@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0de42276f1a02566",
+        "id": "3c2f68679373fd2a",
         "type": "tabs",
         "children": [
           {
-            "id": "84366dd90a194ec2",
+            "id": "d65808967a9bc9c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/hello-world.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7e454233cb037ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/adventures-with-docker-multistage-build.md",
+                "file": "blog/opensource-is-easy/index.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79c938f485d33575",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/adventures-with-docker-multistage-build.md",
+                "file": "blog/opensource-is-easy/index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/adventures-with-docker-multistage-build.md",
+                "file": "blog/opensource-is-easy/index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/adventures-with-docker-multistage-build.md"
+                "file": "blog/opensource-is-easy/index.md.md"
               }
             }
           }
@@ -160,12 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4352822ed9e9aef1",
+  "active": "d65808967a9bc9c7",
   "lastOpenFiles": [
-    "blog/hello-world.md",
-    "diary/2023-07-13.md",
+    "blog/opensource-is-easy/dependency.png",
+    "blog/opensource-is-easy/2023-07-18-37.png",
+    "blog/opensource-is-easy/2023-07-18-46.png",
+    "blog/opensource-is-easy/neuron_activation.png",
+    "blog/opensource-is-easy/project_component.png",
+    "blog/opensource-is-easy/Pasted-image-20230718000934.png",
+    "blog/opensource-is-easy/Pasted-image-20230717235102.png",
+    "blog/opensource-is-easy/index.md.md",
+    "blog/opensource-is-easy/2023-07-18-73.png",
+    "Pasted image 20230718004516.png",
+    "Pasted image 20230718004508.png",
+    "Pasted image 20230718004546.png",
+    "blog/opensource-is-easy",
     "blog/adventures-with-docker-multistage-build.md",
     "Juggernaut.md",
+    "blog/hello-world.md",
+    "diary/2023-07-13.md",
     "templates/diary.md",
     "templates",
     "diary/2023-07-12.md",
