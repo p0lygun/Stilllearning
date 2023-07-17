@@ -121,14 +121,14 @@ But that does not matter because I know
 - what I need to do
 - project structure
 
-**All these are also True for you too !!!**
+**All these are True for you too !!!**
 
 So let get to contributing, 
 
 First, we clone and `cd` into the project now, we can clearly see that the "Resume Builder" project is split into two, 
 - The Form
 - The Resume
-This also reflects in [Resume Components](https://github.com/xitanggg/open-resume/tree/main/src/app/components) directory
+This also reflects in the [Resume Components](https://github.com/xitanggg/open-resume/tree/main/src/app/components) directory
 ```d
 .
 ├── documentation 

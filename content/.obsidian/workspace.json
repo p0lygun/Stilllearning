@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/opensource-is-easy/index.md.md",
+                "file": "blog/opensource-is-easy/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/opensource-is-easy/index.md.md",
+                "file": "blog/opensource-is-easy/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/opensource-is-easy/index.md.md",
+                "file": "blog/opensource-is-easy/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/opensource-is-easy/index.md.md"
+                "file": "blog/opensource-is-easy/index.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d65808967a9bc9c7",
+  "active": "4352822ed9e9aef1",
   "lastOpenFiles": [
     "blog/opensource-is-easy/dependency.png",
     "blog/opensource-is-easy/2023-07-18-37.png",
@@ -155,7 +155,7 @@
     "blog/opensource-is-easy/project_component.png",
     "blog/opensource-is-easy/Pasted-image-20230718000934.png",
     "blog/opensource-is-easy/Pasted-image-20230717235102.png",
-    "blog/opensource-is-easy/index.md.md",
+    "blog/opensource-is-easy/index.md",
     "blog/opensource-is-easy/2023-07-18-73.png",
     "Pasted image 20230718004516.png",
     "Pasted image 20230718004508.png",
