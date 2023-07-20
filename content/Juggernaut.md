@@ -47,3 +47,34 @@ Hi @matavatar , i've gone through the Todo on GH and would like to ask a few thi
 - Till when you want these features be done ?
 
 This is the first round of questions this will give me a general understanding of the scale of things required to do
+
+
+# Price distribution
+- Dashboard (1.5 + 2k + 1.8k + 500 = 6k)
+	- Base 1.7k ( login, enable/disable command, website, non-responsive)
+		- this is one time
+	- Playtest (  2k ) ( includes bot and admin panel)
+		- Steam keys importer ( 200 )
+		- manager ( 1.8k )
+	- Form Creator ( 1.8k )
+		- Base  ( 1k ) 
+			- Form Creation
+			- Form control
+			- Edit and add new field
+			- View entries for each form
+			- Which channel to send the form to
+			- Watch the message
+		- Ability to edit and add inputs on fly (500)
+			- only text and number inputs
+				- ( 100  extra ) for drop-down input
+			- Adding this allows you to create any amount of forms 
+		-  Apply form (150)
+		- feedback form (150)
+		- Form entries
+	- Form and Playtest data saving and export (500)
+	
+- These will be available for all these and next commands, for free
+	- Hosting setup and config
+	- 10 free small revisions ( typo, text change )
+	- 2 free major revisions ( change how a command works )
+	- Regular maintenance

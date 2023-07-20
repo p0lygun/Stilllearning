@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2f68679373fd2a",
+        "id": "a45d9f6e2a6b2dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "d65808967a9bc9c7",
+            "id": "3ec0990daa75644b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/opensource-is-easy/index.md",
+                "file": "blog/learning_vue/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79c938f485d33575",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/opensource-is-easy/index.md",
+                "file": "blog/learning_vue/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/opensource-is-easy/index.md",
+                "file": "blog/learning_vue/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/opensource-is-easy/index.md"
+                "file": "blog/learning_vue/index.md"
               }
             }
           }
@@ -146,22 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d65808967a9bc9c7",
+  "active": "3ec0990daa75644b",
   "lastOpenFiles": [
-    "blog/opensource-is-easy/neuron_activation.png",
+    "blog/learning_vue/index.md",
+    "blog/learning_vue",
     "blog/opensource-is-easy/index.md",
+    "Juggernaut.md",
+    "blog/opensource-is-easy/neuron_activation.png",
+    "blog/opensource-is-easy/Pasted-image-20230717235102.png",
     "blog/opensource-is-easy/dependency.png",
-    "blog/opensource-is-easy/2023-07-18-37.png",
+    "blog/opensource-is-easy/2023-07-18-73.png",
     "blog/opensource-is-easy/2023-07-18-46.png",
+    "blog/opensource-is-easy/2023-07-18-37.png",
     "blog/opensource-is-easy/project_component.png",
     "blog/opensource-is-easy/Pasted-image-20230718000934.png",
-    "blog/opensource-is-easy/Pasted-image-20230717235102.png",
-    "blog/opensource-is-easy/2023-07-18-73.png",
     "Pasted image 20230718004516.png",
     "Pasted image 20230718004508.png",
     "blog/opensource-is-easy",
     "blog/adventures-with-docker-multistage-build.md",
-    "Juggernaut.md",
     "blog/hello-world.md",
     "diary/2023-07-13.md",
     "templates/diary.md",
