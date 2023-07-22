@@ -10,6 +10,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    defaults:
+      run:
+        working-directory: ./blog
+  
     steps:
       - uses: actions/checkout@v3
         with:
