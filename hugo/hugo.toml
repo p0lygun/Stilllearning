@@ -110,10 +110,16 @@ url = "/diary/"
 weight = 1
 
 [[menu.main]]
+identifier = "youtube"
+name = "YouTube"
+url = "/youtube/"
+weight = 2
+
+[[menu.main]]
 identifier = "blog"
 name = "Blog"
 url = "/blog/"
-weight = 2
+weight = 3
 
 
 
@@ -151,3 +157,8 @@ target = 'assets/img'
 [[module.mounts]]
   source = '../obsidian/diary'
   target = 'content/diary'
+
+[[module.mounts]]
+  source = '../youtube'
+  target = 'content/youtube'
+
